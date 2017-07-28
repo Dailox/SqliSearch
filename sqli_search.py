@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 '''
-    @author Lucas Deutschland
+    @author Dailox
 '''
 from bs4 import BeautifulSoup
 import requests
