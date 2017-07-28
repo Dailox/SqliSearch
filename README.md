@@ -3,8 +3,8 @@ Python Script to search for Sql Injection vulnerable sites, safes it into files.
 
 Modules you need:
 - Beautiful Soup 4
-- Requests
-- Re
+- requests
+- re
 - urllib2
 
 
