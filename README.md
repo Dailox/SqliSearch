@@ -6,6 +6,7 @@ Modules you need:
 - requests
 - re
 - urllib2
+- sys
 
 
 If it isn't working, wait some time. Google is blocking requests after you did many.
